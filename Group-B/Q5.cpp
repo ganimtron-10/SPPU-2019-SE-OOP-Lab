@@ -2,7 +2,7 @@
 Aledutron
 SPPU 2019 SE OOP Lab
 SPPU Computer Engineering Second Year (SE) Object Oriented Programming (OOP) Lab Assignments (2019 Pattern)
-Youtube DSAL Playlist Link: https://youtube.com/playlist?list=PLlShVH4JA0otmMld-dvDBGxqqSNy1zlf3
+Youtube OOP Lab Playlist Link: https://youtube.com/playlist?list=PLlShVH4JA0otmMld-dvDBGxqqSNy1zlf3
 
 Problem Statement:
 Group-B/Q5.cpp
